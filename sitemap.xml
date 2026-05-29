@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/</loc>
@@ -8,7 +8,7 @@
     </url>
 
     <url>
-        <loc>https://mixbkacl.github.io/comohablarconia/blog/como-crear-tu-lider-de-gimnasio-pokemon-con-ia.html</loc>
+        <loc>https://mixbkacl.github.io/comohablarconia/blog/como-crear-lider-gimnasio.html</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
