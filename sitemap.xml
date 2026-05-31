@@ -3,14 +3,14 @@
 
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/como-crear-lider-gimnasio.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://mixbkacl.github.io/comohablarconia/blog/mejores-ia-2026.html</loc>
     </url>
 
 </urlset>
