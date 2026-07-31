@@ -17,6 +17,7 @@
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/crear-personaje.html</loc>
     </url>
+
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/10-errores-que-cometen-los-principiantes-al-usar-Inteligencia-Artificial.html</loc>
     </url>
@@ -25,7 +26,7 @@
         <loc>https://mixbkacl.github.io/comohablarconia/blog/consistencia-ia.html</loc>
     </url>
 
-      <url>
+    <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/10-cosas-sorprendentes-que-puedes-hacer-con-la-ia.html</loc>
     </url>
 
@@ -35,12 +36,18 @@
 
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/ia-para-adultos-mayores.html</loc>
+    </url>
 
-          <url>
+    <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/ia-para-fans-de-los-deportes.html</loc>
     </url>
-      <url>
+
+    <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/ia-para-mamas-y-sus-hijos.html</loc>
     </url>
+
+    <url>
+        <loc>https://mixbkacl.github.io/comohablarconia/blog/ia-para-ahorrar-dinero.html</loc>
     </url>
+
 </urlset>
