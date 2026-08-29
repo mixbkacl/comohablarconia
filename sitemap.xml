@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+    <!-- Página principal -->
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/</loc>
     </url>
+
+    <!-- Artículos -->
 
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/como-crear-lider-gimnasio.html</loc>
@@ -60,7 +64,13 @@
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/crear-imagenes-profesionales-con-ia.html</loc>
     </url>
+
     <url>
         <loc>https://mixbkacl.github.io/comohablarconia/blog/google-vs-inteligencia-artificial.html</loc>
     </url>
+
+    <url>
+        <loc>https://mixbkacl.github.io/comohablarconia/blog/como-estudiar-con-ia-sin-hacer-trampa.html</loc>
+    </url>
+
 </urlset>
